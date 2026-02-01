@@ -1,46 +1,15 @@
 C:/Work/Ships/Cruiser_Moscow.png
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/all.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/button.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/ca-pub-1800971430203030.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/follow_button.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/openapi.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/postmessageRelay.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/postmessageRelay_data/1240234406-postmessagerelay.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/scripts.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/share.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_002.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/a.html
 C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/ads.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/osd.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/zrt_lookup.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/ads.html
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/ads_data/osd_listener.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/show_ads_impl.js
-C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/widget_like_data/al_like.js
-C:/Work/Ships/bka_1125/bka_1125_3a.png
 C:/Work/Ships/bka_1125/bka_1125_3a.tif
-C:/Work/Ships/bka_1125/bka_1125_4a.png
 C:/Work/Ships/bka_1125/bka_1125_4a.tif
-C:/Work/Ships/bka_1125/bka_1125_5a.png
 C:/Work/Ships/bka_1125/bka_1125_5a.tif
-C:/Work/Ships/bka_1125/bka_1125_6a.png
 C:/Work/Ships/bka_1125/bka_1125_6a.tif
-C:/Work/Ships/mo_4/mo_4_4a.png
 C:/Work/Ships/mo_4/mo_4_4a.tif
-C:/Work/Ships/mo_4/mo_4_5a.png
 C:/Work/Ships/mo_4/mo_4_5a.tif
-C:/Work/Ships/mo_4/mo_4_6a.png
 C:/Work/Ships/mo_4/mo_4_6a.tif
-C:/Work/Ships/portfolio/BK-1124/BK-1124.txt
 C:/Work/Ships/portfolio/Cruiser_Moscow/Cruiser_Moscow.png
 C:/Work/Ships/portfolio/Cruiser_Moscow/Cruiser_Moscow.txt
-C:/Work/Ships/portfolio/Cruiser_Varyag_old/Cruiser_Varyag_old.txt
-C:/Work/Ships/portfolio/Minesweeper_Strela/Minesweeper_Strela.txt
-C:/Work/Ships/slava/slava_1_600dpi.png
 C:/Work/Ships/slava/slava_1_600dpi.tif
-C:/Work/Ships/slava/slava_2_600dpi.png
 C:/Work/Ships/slava/slava_2_600dpi.tif
 C:/Work/Ships/slava/slava_3_600dpi.tif
-C:/Work/Ships/slava/slava_4_600dpi.png
 C:/Work/Ships/slava/slava_4_600dpi.tif

@@ -156,9 +156,9 @@ MainWindow::MainWindow(QWidget *parent) :
     {
         if(QSysInfo::machineHostName() == MACHINE_HOST_NAME)
         {
-            qsProjectPath = "C:/SUBBOTIN/Work/MyQtProjects/PicturesControl2";//"C:/WORK/PicturesControl2";
-            qsIniFileName = "C:/Work/Ships";
+            qsProjectPath = "C:/SUBBOTIN/Work/MyQtProjects/PicturesControl2";
             qsHashTagFileNameSuffix = "Ships";
+            qsIniFileName = "C:/WORK/" + qsHashTagFileNameSuffix;
             cIniFile::iniFilePath = qsProjectPath + "/programm/data/FilesConfig" + qsHashTagFileNameSuffix + ".ini";
 
             cIniFile::pattern1StringListFilePath = "./data/StringListPattern1.txt";
