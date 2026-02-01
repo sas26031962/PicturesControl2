@@ -198,20 +198,6 @@ MainWindow::MainWindow(QWidget *parent) :
         cIniFile::GarbageCollectorPath = "C:/WORK/GarbageCollector/";
     }
 
-    //---Прямые имена файлов
-
-//    cIniFile::pattern1StringListFilePath = "./data/StringListPattern1.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern1StringListFile" + qsDataFileNameExtension;
-//    cIniFile::pattern2StringListFilePath = "./data/StringListPattern2.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern2StringListFile" + qsDataFileNameExtension;
-//    cIniFile::patternXStringListFilePath = qsProjectPath + qsProjectName + "/programm/data/pattern3StringListFile" + qsDataFileNameExtension;
-//    cIniFile::scaledImagePath = qsProjectPath + qsProjectName + "/programm/img/tmp/scaled_image.png";
-//    cIniFile::filePathRemovedSectionList = qsProjectPath + qsProjectName + "/programm/data/RemovedSectionList" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-//    cIniFile::fileSubjectHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListSubject" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-//    cIniFile::filePlaceHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListPlaces" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-//    cIniFile::filePropertyHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListPropertyes" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-//    cIniFile::fileTheameHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListTheams" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-
-//    cIniFile::fileNewItems = qsProjectPath + qsProjectName + "/programm/data/NewItems" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-
     qDebug() << "qsIniFileName=" << qsIniFileName;
     qDebug() << "cIniFile::iniFilePath=" << cIniFile::iniFilePath;
     qDebug() << "cIniFile::pattern1StringListFilePath=" << cIniFile::pattern1StringListFilePath;
