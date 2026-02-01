@@ -1,0 +1,225 @@
+#20251213
+
+[x] Рефакторинг: удаление метода install из класса cListWidgetSubject
+[x] Рефакторинг: удаление метода install из класса cListWidgetPlace
+[x] Рефакторинг: удаление метода install из класса cListWidgetProperty
+[x] Рефакторинг: удаление метода install из класса cListWidgetTheame
+[x] Рефакторинг: удаление метода install из класса cSearch
+[] Рефакторинг: удаление метода install из класса cDrawFilesInstance
+
+#20250829
+
+[] Перенести функциональность cDrawFilex::RotateCW90() в ProcessRotateCW90Task::run()
+[x] Перенести функциональность cDrawFilex::RotateCW90() в ProcessRotateCW90Task::run()
+[x] Перенести функциональность cDrawFilex::RotateCCW90() в ProcessRotateCCW90Task::run()
+[x] Перенести функциональность cSearch::searchPattern2() в ProcessSearchPattern2Task::run()
+[x] Перенести функциональность cSearch::searchPattern1() в ProcessSearchPattern1Task::run()
+[x] В процессе импорта изображений, проводимого в рамках действия actionImportTaskProcess
+работоспособность программы не теряется (действие происходит в отдельном потоке), однако
+при этом модифицируется указатель std::atomic<int> iCurrentIndexGlobal, что, в свою очередь,
+влияет на ход навигации изображений, так как навигация изображений использует тот же указатель
+
+#20250826
+
+[x] Перенести функциональность cRecord::storeRecords() в ProcessStoreRecordListTask::run()
+
+#20250815
+
+[] Сделать предпросмотр результатов поиска
+[x] Сделать предварительный поиск для выбора опции из списка
+
+#20250808
+
+[x] В процессе длительного поиска программа как бы зависает, необходимо делать это асинхронно
+
+[] В окне ListWidgetFounded удалению подлежат только сущности из списка по паттерну 1,
+сущности по паттерну 2 не находятся (видимо неправильно сформировано имя файла).
+
+[] Действие Remove не сопровождается комментариями в окне ListWidgetOther лучше вызывать это
+действие с помощью контекстного меню
+
+#20250804
+
+[x] Сформировать файл .gitignore
+
+
+#20250715
+
+[x] Выполнить рефакторинг класса cSearch: перенести действия, связанные
+с одноимёнными функциями этого класса из MainWindow в экземпляр этого класса
++ execActionSearchRotated()
++ execActionSearchNamePattern1()
++ execActionSearchNamePattern2()
++ execActionSearchNamePattern()
++ execActionSearchNamePatterns12Intersection()
++ execActionSearchNamePatterns1XIntersection()
++ execActionSearchFreshRecords()
++ execActionSearchOrYes()
++ execActionSearchYesYes()
+
+[x] Выполнить рефакторинг класса cDrawFilex: в экземпляре класса выполнить
+программную генерацию кнопок и SpinBox, с помощью которых выполняются
+действия по вращению изображения
+- pushButton RotateCW
+- pushButton RotateCCW
+- spinBox SpinBoxAngle
+
+#20250714
+
+[x] Выполнить рефакторинг класса cDrawFilex: перенести действия, связанные
+с одноимёнными функциями этого класса из MainWindow в экземпляр этого класса
++ execActionRotateCW(),
++ execActionRotateCCW(),
++ execSpinBoxAngle(int angle)
+
+#20250711
+
+[x] Выполнить рефакторинг класса cNavigation: перенести действия, связанные
+с одноимёнными функциями этого класса из MainWindow в экземпляр этого класса
++ execActionRemoveSection()
++ execActionEraseSection(),
+а также функции:
++ eraseSection(qsGroupName)
++ deleteSection(qsGroupName)
+
+#20250710
+
+[x] Выполнить рефакторинг класса cImportFiles: создать экземпляр этого класса и
+перенести действия, связанные с одноимёнными функциями этого класса из MainWindow
+в экземпляр этого класса
++ execActionImportInitial()
++ execActionGetGroupsList()
++ execActionGetKeysList()
++ execActionLoad()
+
+#20250628
+
+[x] После выполнения поиска, если элементы не найдены, progressBar отображает 100%
+
+#20250626
+
+[x] Решить проблему пропадающих файлов
+[x] Создать класс cSearch
+[x] Перенести метод execListWidgetFoundedItemClicked из главной формы в класс cSearch
+[x] Перенести метод showGroupsList() из главной формы в класс cSearch
+[x] Перенести метод searchNamePattern() из класса cLoadFile в класс cSearch
+
+#20250625
+
+[x] Перенести слот execActionGotoIndex из MainWindow в класс cNavigation
+[x] Перенести слот execActionSelectImageBegin из MainWindow в класс cNavigation
+[x] Перенести слот execActionSelectImageNext из MainWindow в класс cNavigation
+[x] Перенести слот execActionSelectImagePrevious из MainWindow в класс cNavigation
+[x] Перенести слот execActionSelectImageEnd из MainWindow в класс cNavigation
+[x] Перенести метод installNavigation из MainWindow в класс cNavigation
+
+#20250622
+
+[x] Сделать функцию удаления файла в папку GarbageCollector
+
+#20250617
+
+[x] Переместить указатель в ListWidgetOther в конец списка
+
+#20250611
+
+[x] Перененсти слот execActionRemoveText() из MainWindow в класс cActionExec
+[x] Перененсти слот execActionRemoveTif() из MainWindow в класс cActionExec
+[x] Перененсти слот execActionRemove3gp() из MainWindow в класс cActionExec
+[x] Перененсти слот execActionRemoveBin() из MainWindow в класс cActionExec
+
+#20250605
+
+[x] Перенестии имена файлов хранилища в конфигурационный файл
+[x] Перененсти слот execActionRemoveMovie() из MainWindow в класс cActionExec
+
+#20250603
+
+[?] Разобраться с ошибками при повороте файлов
+[] Записывать имена файлов с ошибками при повороте в отдельный файл
+[] Сделать кнопку для добавления повёрнутых файлов в конфигурационный файл
+
+#20250530
+
+[x] Удалить функцию loadHashTagListPlace() в классе MainWindow
+[x] Удалить функцию loadHashTagListTheame() в классе MainWindow
+[x] Удалить функцию execListWidgetTheameItemClicked() в классе MainWindow
+[x] Удалить функцию execListWidgetTheameCustomContextMenuRequested() в классе MainWindow
+[x] Удалить функцию AddOrRemoveTheameItemToRecord() в классе MainWindow
+[x] Удалить функцию AddOrRemoveTheameItemToRecord() в классе MainWindow
+[x] Удалить функцию execActionLoadHashTagListTheame() в классе MainWindow
+[x] Удалить функцию execActionInsertTheame() в классе MainWindow
+[x] После завершения поиска, если число найденных объектов равно нулю, индикатор progress bar ведёт себя неадекватно (должен быть 0)
+
+#20250522
+
+[x] Добавить сохранение расширенного списка мест
+
+#20250511
+
+[x] Добавить признак IsModifiedByRotation
+[] Добавить признак IsDeleted
+[] Добавить алгоритм поиска файла, комплементарного повёрнутому
+[] Добавить алгоритм переноса признаков из комплементарного файла в повёрнутый
+
+#20250426
+
+[x] При нажатии на кнопку В КОНЕЦ происходит ошибка переполнения list range
+
+#20250413
+
+[x] Проработать вопрос об удалении секций с расширениями файлов .3gp, .bin
+
+#20250403
+
+[x] Проработать вопрос об удалении секции при просмотре (навигации)
+
+#20250327
+
+[x] Добавить действие для добавления файлов в конфигурационный файл
+
+[x] Устранить ошибку по загрузке файлов при непосредственном использовании приложения
+
+#20250319
+
+[x] Запретить поворот до выполнения действия "Load"
+
+[x] Добавить удаление секций с расширениями файлов .txt, .tif
+
+[x] Добавить удаление секций с расширениями файлов .txt, .tif
+
+[x] Проработать вопрос о добавлении файлов в ini файл
+
+[x] Проработать вопрос об удалении секции, атрибута из конфигурационного файла
+
+#20250323
+
+[x] Добавить спиок свойств
+
+[x] Добавить поле Memo
+
+#20250315
+
+[x] Проработать вопрос об удалении секции из ini файла
+
+#20250310
+[x] Разработать алгоритм удаления пробелов в именах файлов и каталогов в источнике данных
+
+[x] Добавить запись текущего состояния (индекса) в конфигурационный файл
+
+[x] Пропускать видеофайлы
+
+[x] Поворот изображений
+
+[x] Вывод пути к текущему файлу на экран
+
+[x] Отображать имя загруженного файла
+
+===============================================================================
+
+
+
+
+
+
+

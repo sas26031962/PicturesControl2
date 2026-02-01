@@ -1,0 +1,305 @@
+C:/Work/Ships/Ancor Holl 1.jpg:9637
+C:/Work/Ships/Ancor Holl 2.gif:6417
+C:/Work/Ships/Ancor_Holl_1.jpg:9637
+C:/Work/Ships/Ancor_Holl_2.gif:6417
+C:/Work/Ships/Cruiser Kirov/kirov1.gif:73197
+C:/Work/Ships/Cruiser Kirov/kirov10.gif:32109
+C:/Work/Ships/Cruiser Kirov/kirov11.gif:54182
+C:/Work/Ships/Cruiser Kirov/kirov12.gif:57261
+C:/Work/Ships/Cruiser Kirov/kirov13.gif:80046
+C:/Work/Ships/Cruiser Kirov/kirov14.gif:41025
+C:/Work/Ships/Cruiser Kirov/kirov15.gif:88599
+C:/Work/Ships/Cruiser Kirov/kirov16.gif:121756
+C:/Work/Ships/Cruiser Kirov/kirov17.gif:82186
+C:/Work/Ships/Cruiser Kirov/kirov18.gif:97203
+C:/Work/Ships/Cruiser Kirov/kirov19.gif:120478
+C:/Work/Ships/Cruiser Kirov/kirov2.gif:55878
+C:/Work/Ships/Cruiser Kirov/kirov20.gif:68324
+C:/Work/Ships/Cruiser Kirov/kirov21.gif:53143
+C:/Work/Ships/Cruiser Kirov/kirov22.gif:48455
+C:/Work/Ships/Cruiser Kirov/kirov23.gif:42063
+C:/Work/Ships/Cruiser Kirov/kirov24.gif:53483
+C:/Work/Ships/Cruiser Kirov/kirov25.gif:97347
+C:/Work/Ships/Cruiser Kirov/kirov26.gif:20506
+C:/Work/Ships/Cruiser Kirov/kirov27.gif:43044
+C:/Work/Ships/Cruiser Kirov/kirov28.gif:78221
+C:/Work/Ships/Cruiser Kirov/kirov29.gif:119122
+C:/Work/Ships/Cruiser Kirov/kirov3.gif:29770
+C:/Work/Ships/Cruiser Kirov/kirov30.gif:116111
+C:/Work/Ships/Cruiser Kirov/kirov31.gif:151856
+C:/Work/Ships/Cruiser Kirov/kirov32.gif:110985
+C:/Work/Ships/Cruiser Kirov/kirov4.gif:94093
+C:/Work/Ships/Cruiser Kirov/kirov5.gif:37500
+C:/Work/Ships/Cruiser Kirov/kirov6.gif:60760
+C:/Work/Ships/Cruiser Kirov/kirov7.gif:36992
+C:/Work/Ships/Cruiser Kirov/kirov8.gif:76066
+C:/Work/Ships/Cruiser Kirov/kirov9.gif:89800
+C:/Work/Ships/Cruiser Pamyat Azova/Details 1.jpeg:440491
+C:/Work/Ships/Cruiser Pamyat Azova/Details 2.jpeg:487418
+C:/Work/Ships/Cruiser Pamyat Azova/Details 3.jpeg:493958
+C:/Work/Ships/Cruiser Pamyat Azova/Details 4.jpeg:216066
+C:/Work/Ships/Cruiser Pamyat Azova/Details 5.jpeg:386037
+C:/Work/Ships/Cruiser Pamyat Azova/Draft 1.jpeg:488966
+C:/Work/Ships/Cruiser Pamyat Azova/Russian alphabeth.png:37216
+C:/Work/Ships/Cruiser Pamyat Azova/Theoretic draft 1.jpeg:564052
+C:/Work/Ships/Cruiser_Kirov/kirov1.gif:73197
+C:/Work/Ships/Cruiser_Kirov/kirov10.gif:32109
+C:/Work/Ships/Cruiser_Kirov/kirov11.gif:54182
+C:/Work/Ships/Cruiser_Kirov/kirov12.gif:57261
+C:/Work/Ships/Cruiser_Kirov/kirov13.gif:80046
+C:/Work/Ships/Cruiser_Kirov/kirov14.gif:41025
+C:/Work/Ships/Cruiser_Kirov/kirov15.gif:88599
+C:/Work/Ships/Cruiser_Kirov/kirov16.gif:121756
+C:/Work/Ships/Cruiser_Kirov/kirov17.gif:82186
+C:/Work/Ships/Cruiser_Kirov/kirov18.gif:97203
+C:/Work/Ships/Cruiser_Kirov/kirov19.gif:120478
+C:/Work/Ships/Cruiser_Kirov/kirov2.gif:55878
+C:/Work/Ships/Cruiser_Kirov/kirov20.gif:68324
+C:/Work/Ships/Cruiser_Kirov/kirov21.gif:53143
+C:/Work/Ships/Cruiser_Kirov/kirov22.gif:48455
+C:/Work/Ships/Cruiser_Kirov/kirov23.gif:42063
+C:/Work/Ships/Cruiser_Kirov/kirov24.gif:53483
+C:/Work/Ships/Cruiser_Kirov/kirov25.gif:97347
+C:/Work/Ships/Cruiser_Kirov/kirov26.gif:20506
+C:/Work/Ships/Cruiser_Kirov/kirov27.gif:43044
+C:/Work/Ships/Cruiser_Kirov/kirov28.gif:78221
+C:/Work/Ships/Cruiser_Kirov/kirov29.gif:119122
+C:/Work/Ships/Cruiser_Kirov/kirov3.gif:29770
+C:/Work/Ships/Cruiser_Kirov/kirov30.gif:116111
+C:/Work/Ships/Cruiser_Kirov/kirov31.gif:151856
+C:/Work/Ships/Cruiser_Kirov/kirov32.gif:110985
+C:/Work/Ships/Cruiser_Kirov/kirov4.gif:94093
+C:/Work/Ships/Cruiser_Kirov/kirov5.gif:37500
+C:/Work/Ships/Cruiser_Kirov/kirov6.gif:60760
+C:/Work/Ships/Cruiser_Kirov/kirov7.gif:36992
+C:/Work/Ships/Cruiser_Kirov/kirov8.gif:76066
+C:/Work/Ships/Cruiser_Kirov/kirov9.gif:89800
+C:/Work/Ships/Cruiser_Moscow.png:235422
+C:/Work/Ships/Cruiser_Ochakov/2025-07-18 07-35-00.png:1701518
+C:/Work/Ships/Cruiser_Ochakov/Cruiser Ochakov (details 1).gif:86896
+C:/Work/Ships/Cruiser_Ochakov/Cruiser Ochakov (details 2).gif:102982
+C:/Work/Ships/Cruiser_Ochakov/Cruiser Ochakov (right view).gif:78870
+C:/Work/Ships/Cruiser_Ochakov/Cruiser Ochakov (right view).png:64951
+C:/Work/Ships/Cruiser_Ochakov/Cruiser Oleg (draft 1).jpg:716584
+C:/Work/Ships/Cruiser_Ochakov/Ochakov (color 1).jpg:205585
+C:/Work/Ships/Cruiser_Ochakov/Ochakov (theoretic draft).png:1701518
+C:/Work/Ships/Cruiser_Oleg/20250717_074700.jpg:716584
+C:/Work/Ships/Cruiser_Oleg/Cruiser Oleg (draft 1).jpg:716584
+C:/Work/Ships/Cruiser_Pamyat_Azova/Details_1.jpeg:440491
+C:/Work/Ships/Cruiser_Pamyat_Azova/Details_2.jpeg:487418
+C:/Work/Ships/Cruiser_Pamyat_Azova/Details_3.jpeg:493958
+C:/Work/Ships/Cruiser_Pamyat_Azova/Details_4.jpeg:216066
+C:/Work/Ships/Cruiser_Pamyat_Azova/Details_5.jpeg:386037
+C:/Work/Ships/Cruiser_Pamyat_Azova/Draft_1.jpeg:488966
+C:/Work/Ships/Cruiser_Pamyat_Azova/Russian_alphabeth.png:37216
+C:/Work/Ships/Cruiser_Pamyat_Azova/Theoretic_draft_1.jpeg:564052
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (модель 1).jpg:179132
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (модель 3).jpg:84145
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (устройство 1).jpg:291417
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (устройство 2).jpg:85574
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (фото 1).jpg:334777
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (цвет 1).jpg:146986
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (цвет 2).gif:123363
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 1).jpg:140734
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 10).jpg:325089
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 11).jpg:80493
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 12).jpg:169665
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 2).jpg:464610
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 3).jpg:122462
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 4).gif:173412
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 5).jpg:648392
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 6).gif:100581
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 7).gif:83126
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 8).jpg:83432
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 8).png:511607
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 9).gif:181612
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж 9).jpg:433062
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 1).gif:100581
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 2).gif:154149
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 3).gif:173412
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 4).gif:165983
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 5).gif:174692
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 6).gif:123750
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 7).gif:83126
+C:/Work/Ships/Cruiser_Varyag/Крейсер Варяг (чертеж подробный 8).gif:22205
+C:/Work/Ships/Dreadnote Bismark/Bismark-1.jpg:29293
+C:/Work/Ships/Dreadnote Bismark/Bismark-15.jpg:18718
+C:/Work/Ships/Dreadnote Bismark/Bismark-19.jpg:17877
+C:/Work/Ships/Dreadnote Bismark/Bismark-20.jpg:18388
+C:/Work/Ships/Dreadnote Bismark/Bismark.jpg:40815
+C:/Work/Ships/Dreadnote Imperatritza Mariya/Ekaterina_Velikaya_01.jpg:66444
+C:/Work/Ships/Dreadnote Imperatritza Mariya/Imperatritsa_Mariya_01.jpg:32854
+C:/Work/Ships/Dreadnote Marat/Dreadnote Marat (model).jpg:177080
+C:/Work/Ships/Dreadnote Marat/Dreadnote Marat 1.jpg:304786
+C:/Work/Ships/Dreadnote Marat/Dreadnote Marat 2.jpg:158330
+C:/Work/Ships/Dreadnote Marat/Dreadnote Marat 3.jpg:354627
+C:/Work/Ships/Dreadnote Marat/petropavlovsk_4.gif:72977
+C:/Work/Ships/Dreadnote Poltava/Dreadnote Poltava  (left view).jpg:706835
+C:/Work/Ships/Dreadnote Poltava/Dreadnote Poltava  (top view).jpg:1079343
+C:/Work/Ships/Dreadnote Poltava/Dreadnote Poltava  (top view)_1.jpg:1202813
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote Sevastopol (full top view).png:642131
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote Sevastopol (full top view)_1.png:736931
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote Sevastopol 2.gif:112969
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote Sevastopol 5.jpg:499613
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote_Sevastopol_2.gif:112969
+C:/Work/Ships/Dreadnote Sevastopol/Dreadnote_Sevastopol_5.jpg:499613
+C:/Work/Ships/Dreadnote_Bismark/Bismark-1.jpg:29293
+C:/Work/Ships/Dreadnote_Bismark/Bismark-15.jpg:18718
+C:/Work/Ships/Dreadnote_Bismark/Bismark-19.jpg:17877
+C:/Work/Ships/Dreadnote_Bismark/Bismark-20.jpg:18388
+C:/Work/Ships/Dreadnote_Bismark/Bismark.jpg:40815
+C:/Work/Ships/Dreadnote_Imperatritza_Mariya/Ekaterina_Velikaya_01.jpg:66444
+C:/Work/Ships/Dreadnote_Imperatritza_Mariya/Imperatritsa_Mariya_01.jpg:32854
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_(model).jpg:177080
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_(model)_1.jpg:101677
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_1.jpg:304786
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_2.jpg:158330
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_2_1.jpg:122104
+C:/Work/Ships/Dreadnote_Marat/Dreadnote_Marat_3.jpg:354627
+C:/Work/Ships/Dreadnote_Marat/petropavlovsk_4.gif:72977
+C:/Work/Ships/Dreadnote_Poltava/Dreadnote_Poltava(left_view).jpg:706835
+C:/Work/Ships/Dreadnote_Poltava/Dreadnote_Poltava(top_view).jpg:1079343
+C:/Work/Ships/Dreadnote_Sevastopol/Dreadnote Sevastopol 2.gif:112969
+C:/Work/Ships/Dreadnote_Sevastopol/Dreadnote_Sevastopol(full_top_view).png:642131
+C:/Work/Ships/Dreadnote_Sevastopol/Dreadnote_Sevastopol_2.gif:112969
+C:/Work/Ships/Dreadnote_Sevastopol/Dreadnote_Sevastopol_5.jpg:499613
+C:/Work/Ships/Dreadnotes/00098826.jpg:122942
+C:/Work/Ships/Dreadnotes/1111402.png:88544
+C:/Work/Ships/Dreadnotes/1111402_1.png:122322
+C:/Work/Ships/Dreadnotes/1708939963_hdpic-club-p-linkor-sssr-1.jpg:1024951
+C:/Work/Ships/Dreadnotes/1708939963_hdpic-club-p-linkor-sssr-1_1.jpg:851926
+C:/Work/Ships/Dreadnotes/2160158_linkor-parizhskaya-kommuna.jpg.png.283e0316a774321d280b1413a9cd464b.png:1408521
+C:/Work/Ships/Dreadnotes/35b6e9602e34d824c0544b7aceafabc4.jpg:268496
+C:/Work/Ships/Dreadnotes/480.jpg:57285
+C:/Work/Ships/Dreadnotes/54828_original.png:97235
+C:/Work/Ships/Dreadnotes/_soyuz-montana.big_-680x263.gif:58120
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 1.jpg:177192
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 2.jpg:194759
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 3.jpg:202201
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 4.jpg:202024
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 5.jpg:179213
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 6.jpg:208246
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 7.jpg:212845
+C:/Work/Ships/Leader_Baku/Модель лидера Баку 8.jpg:128641
+C:/Work/Ships/Paravan/параван.jpg:54353
+C:/Work/Ships/Paravan/параван2.jpg:49659
+C:/Work/Ships/Paravan/параван3.jpg:8632
+C:/Work/Ships/Paravan/параван4.jpg:70296
+C:/Work/Ships/Paravan/параван5.jpg:24226
+C:/Work/Ships/Paravan/параван6.jpg:391348
+C:/Work/Ships/Pinnace-1800.png:16842
+C:/Work/Ships/Submarine Komsomoletz.jpg:19182
+C:/Work/Ships/Submarine type SH-108.gif:51227
+C:/Work/Ships/Submarine_Komsomoletz.jpg:19182
+C:/Work/Ships/Submarine_type_SH-108.gif:51227
+C:/Work/Ships/Torpedo-boat G-5/316387975.jpg:388457
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5.html:86028
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/all.js:187403
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/button.js:4328
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/ca-pub-1800971430203030.js:133
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/follow_button.html:35308
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/hit.gif:428
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/kater-gidroplan_s_obvodami_po_tipu_mirandy-lv_small.jpg:7857
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/kater-gidroplan_s_obvodami_po_tipu_mirandy-lv_small_1.jpg:8280
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/openapi.js:86589
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/postmessageRelay.html:566
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/postmessageRelay_data/1240234406-postmessagerelay.js:10487
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/scripts.js:7149
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/share.js:9967
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tipovoy_konstruktivnyy_midel-shpangout_tornikroftovskogo_smv.jpg:8753
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/torpednyy_kater_ant-3_v_sevastopole_small.jpg:5864
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/torpednyy_kater_ant-4_tupolev_obschiy_vid_small.jpg:5368
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_002.html:1632
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/a.html:107
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/ads.html:11543
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/osd.js:78074
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data/zrt_lookup.html:14557
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/ads.html:11503
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/ads_data/osd_listener.js:23809
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/tupolev_torpedo_boats_data_003/show_ads_impl.js:189117
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/ustroystvo_torpednogo_katera_g-5_small.jpg:7790
+C:/Work/Ships/Torpedo-boat G-5/Внутреннее устройство катера Г-5_files/widget_like_data/al_like.js:15046
+C:/Work/Ships/Torpedo-boat G-5/Г-5_Корея.jpeg:191986
+C:/Work/Ships/Torpedo-boat G-5/Катер Г-5 теоретический чертёж.gif000664:23980
+C:/Work/Ships/Torpedo-boat G-5/Команда_с_прожектором.jpeg:173386
+C:/Work/Ships/Torpedo-boat_G-5/316387975.jpg:388457
+C:/Work/Ships/Torpedo-boat_G-5/G-5_Koreya.jpeg:191986
+C:/Work/Ships/Torpedo-boat_G-5/Team_with_search_light.jpeg:173386
+C:/Work/Ships/Torpedo-boat_G-5/Torpedo-boat_G-5(theoretical_drawing).gif:23980
+C:/Work/Ships/bka_1125/2025-08-05 07-24-10.png:114775
+C:/Work/Ships/bka_1125/2025-08-05 07-25-20.png:136470
+C:/Work/Ships/bka_1125/2025-08-05 07-26-30.png:91941
+C:/Work/Ships/bka_1125/2025-08-05 07-32-00.png:29790
+C:/Work/Ships/bka_1125/20250805_072410.png:114777
+C:/Work/Ships/bka_1125/20250805_072520.png:136469
+C:/Work/Ships/bka_1125/20250805_072630.png:91941
+C:/Work/Ships/bka_1125/20250805_073200.png:29790
+C:/Work/Ships/bka_1125/bka_1125_3a.png:29789
+C:/Work/Ships/bka_1125/bka_1125_3a.tif:9228
+C:/Work/Ships/bka_1125/bka_1125_4a.png:114778
+C:/Work/Ships/bka_1125/bka_1125_4a.tif:59380
+C:/Work/Ships/bka_1125/bka_1125_5a.png:136471
+C:/Work/Ships/bka_1125/bka_1125_5a.tif:65104
+C:/Work/Ships/bka_1125/bka_1125_6a.png:91942
+C:/Work/Ships/bka_1125/bka_1125_6a.tif:44034
+C:/Work/Ships/bka_1125/БК-1125 (детали 1).gif:152166
+C:/Work/Ships/mo_4/2025-08--05 08-01-00.png:37650
+C:/Work/Ships/mo_4/2025-08-05 07-59-00.png:163013
+C:/Work/Ships/mo_4/2025-08-05 08-00-00.png:158157
+C:/Work/Ships/mo_4/20250805_075900.png:163014
+C:/Work/Ships/mo_4/20250805_080000.png:158159
+C:/Work/Ships/mo_4/20250805_080100.png:37652
+C:/Work/Ships/mo_4/mo_4_4a.png:163013
+C:/Work/Ships/mo_4/mo_4_4a.tif:99098
+C:/Work/Ships/mo_4/mo_4_5a.png:158158
+C:/Work/Ships/mo_4/mo_4_5a.tif:98316
+C:/Work/Ships/mo_4/mo_4_6a.png:37649
+C:/Work/Ships/mo_4/mo_4_6a.tif:14734
+C:/Work/Ships/portfolio/BK-1124/BK-1124.txt:39
+C:/Work/Ships/portfolio/BK-1124/Fig00.png:404425
+C:/Work/Ships/portfolio/BK-1124/Fig01.png:320510
+C:/Work/Ships/portfolio/BK-1124/Fig02.png:264419
+C:/Work/Ships/portfolio/BK-1124/Fig03.png:189727
+C:/Work/Ships/portfolio/BK-1124/Fig04.png:315107
+C:/Work/Ships/portfolio/BK-1124/Fig06.png:201205
+C:/Work/Ships/portfolio/BK-1124/Fig07.png:322535
+C:/Work/Ships/portfolio/BK-1124/Fig08.png:219685
+C:/Work/Ships/portfolio/BK-1124/Fig09.png:242903
+C:/Work/Ships/portfolio/BK-1124/Fig10.png:218806
+C:/Work/Ships/portfolio/BK-1124/Fig11.png:314841
+C:/Work/Ships/portfolio/BK-1124/Fig12.png:220019
+C:/Work/Ships/portfolio/Cruiser_Moscow/Cruiser Moscow.png:235422
+C:/Work/Ships/portfolio/Cruiser_Moscow/Cruiser_Moscow.png:235422
+C:/Work/Ships/portfolio/Cruiser_Moscow/Cruiser_Moscow.txt:38
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Cruiser_Varyag_old.txt:38
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-0.png:1682975
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-1.png:1197752
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-2.png:1202537
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-3.png:1218429
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-5.png:989555
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-6.png:1882275
+C:/Work/Ships/portfolio/Cruiser_Varyag_old/Fig4-8.png:1895604
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig0.png:265530
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig01.png:238918
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig02.png:199814
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig03.png:218005
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig04.png:230127
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig05.png:204851
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig06.png:116930
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig07.png:280604
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig08.png:219426
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig09.png:312056
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig10.png:272590
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig11.png:135267
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig12.png:273760
+C:/Work/Ships/portfolio/Minesweeper_Strela/Fig13.png:256585
+C:/Work/Ships/portfolio/Minesweeper_Strela/Minesweeper_Strela.txt:39
+C:/Work/Ships/slava/slava_1_600dpi.png:248747
+C:/Work/Ships/slava/slava_1_600dpi.tif:141662
+C:/Work/Ships/slava/slava_2_600dpi.png:344033
+C:/Work/Ships/slava/slava_2_600dpi.tif:195990
+C:/Work/Ships/slava/slava_3_600dpi.tif:211728
+C:/Work/Ships/slava/slava_4_600dpi.png:161801
+C:/Work/Ships/slava/slava_4_600dpi.tif:90442
+C:/Work/Ships/Крейсер Аскольд (чертеж 1).jpg:288611
+C:/Work/Ships/МО-4.jpg:370403

@@ -1,0 +1,56 @@
+BKA_1125
+Armadillo_Borodino
+Cruiser_Kirov
+Cruiser_Pamyat_Azova
+Cruiser_Varyag
+Dreadnote_Bismark
+Dreadnote_Imperatritza_Mariya
+Dreadnote_Marat
+Dreadnote_Poltava
+Dreadnote_Sevastopol
+Dreadnote_Sevastopol_1969
+Dreadnote_Petropavlovsk
+Destroyer_Pr56
+Lider_Tashkent
+MO_4
+Minesweeper_Strela
+Armadillo_Slava
+Torpedo-boat_G-5
+Ancor_Holl
+Cruiser_Moscow
+Submarine_Komsomoletz
+Submarine_type_SH-108
+Dreadnote_Soyuz-Montana
+Dreadnote_Sovetsky_Soyuz
+Dreadnote_Parizskaya_Kommuna
+Dreadnote_Izmail
+Линкор_Архангельск
+Линкор_Советский_Союз
+Линкор_Севастополь
+Линкор_Новороссийск
+Лидер_Ташкент
+Линкор_Парижская_Коммуна
+Торпедный_катер_Г5
+Броненосец_Слава
+Линкор_Измаил
+Якорь_Холла
+Линкор_Бисмарк
+Крейсер Москва
+Крейсер_Память_Азова
+Линкор_Марат
+Линкор_Полтава
+Малый_морской_охотник_МО4
+Торпедный_катер_АМГ-3
+Линкор Петропавловск
+Крейсер Киров
+Линкор_Гангут
+Линкор_Императрица_Екатерина
+Тральщик_Стрела
+Крейсер_Олег
+Крейсер_Очаков
+Крейсер_Варяг
+Полубаркас_1800_год
+Подводная_лодка_Комсомолец
+Подводные_лодки_Щ-301, Щ-108
+Крейсер_Аскольд
+Лидер_Баку

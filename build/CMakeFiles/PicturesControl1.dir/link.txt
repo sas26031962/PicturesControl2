@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/PicturesControl1.dir/main.cpp.o  -o PicturesControl1 

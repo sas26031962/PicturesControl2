@@ -1,0 +1,9 @@
+Maps
+IsRotated
+IsModifyedByRotation
+Document
+Archive
+ForDeleting
+Unknown
+ex
+new

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/TODO">
+        <file>TODO_List.txt</file>
+    </qresource>
+    <qresource prefix="/config">
+        <file>programm/settings.ini</file>
+        <file>programm/data/FilesConfigShips.ini</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>programm/img/tmp/SmileMissing.png</file>
+    </qresource>
+</RCC>
