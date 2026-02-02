@@ -164,7 +164,7 @@ MainWindow::MainWindow(QWidget *parent) :
             cIniFile::pattern1StringListFilePath = "./data/StringListPattern1.txt";
             cIniFile::pattern2StringListFilePath = "./data/StringListPattern2.txt";
             cIniFile::patternXStringListFilePath = qsProjectPath + "/programm/data/pattern3StringListFile" + qsDataFileNameExtension;
-            cIniFile::scaledImagePath = qsProjectPath + qsProjectName + "/programm/img/tmp/scaled_image.png";
+            cIniFile::scaledImagePath = qsProjectPath + "/programm/img/tmp/scaled_image.png";
             cIniFile::filePathRemovedSectionList = qsProjectPath + "/programm/data/RemovedSectionList" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::fileSubjectHashTag = qsProjectPath + "/programm/data/HashTagListSubject" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::filePlaceHashTag = qsProjectPath + "/programm/data/HashTagListPlaces" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
