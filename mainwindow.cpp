@@ -140,38 +140,38 @@ MainWindow::MainWindow(QWidget *parent) :
          qsIniFileName = qsIniFileNameLinux;
          cIniFile::iniFilePath = qsProjectPath + qsProjectName + "/programm/data/FilesConfig" + qsHashTagFileNameSuffix + ".ini";
 
-         cIniFile::pattern1StringListFilePath = "./data/StringListPattern1.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern1StringListFile" + qsDataFileNameExtension;
-         cIniFile::pattern2StringListFilePath = "./data/StringListPattern2.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern2StringListFile" + qsDataFileNameExtension;
+         cIniFile::pattern1StringListFilePath = "./data/StringListPattern1" + qsDataFileNameExtension;
+         cIniFile::pattern2StringListFilePath = "./data/StringListPattern2" + qsDataFileNameExtension;
          cIniFile::patternXStringListFilePath = qsProjectPath + qsProjectName + "/programm/data/pattern3StringListFile" + qsDataFileNameExtension;
-         cIniFile::scaledImagePath = qsProjectPath + qsProjectName + "/programm/img/tmp/scaled_image.png";
          cIniFile::filePathRemovedSectionList = qsProjectPath + qsProjectName + "/programm/data/RemovedSectionList" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
          cIniFile::fileSubjectHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListSubject" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
          cIniFile::filePlaceHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListPlaces" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
          cIniFile::filePropertyHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListPropertyes" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
          cIniFile::fileTheameHashTag = qsProjectPath + qsProjectName + "/programm/data/HashTagListTheams" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-
          cIniFile::fileNewItems = qsProjectPath + qsProjectName + "/programm/data/NewItems" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
+
+         cIniFile::scaledImagePath = qsProjectPath + qsProjectName + "/programm/img/tmp/scaled_image.png";
     }
     else
     {
-        if(QSysInfo::machineHostName() == MACHINE_HOST_NAME)
+        if(QSysInfo::machineHostName() == MACHINE_HOST_NAME_1)
         {
             qsProjectPath = "C:/SUBBOTIN/Work/MyQtProjects/PicturesControl2";
             qsHashTagFileNameSuffix = "Ships";
             qsIniFileName = "C:/WORK/" + qsHashTagFileNameSuffix;
             cIniFile::iniFilePath = qsProjectPath + "/programm/data/FilesConfig" + qsHashTagFileNameSuffix + ".ini";
 
-            cIniFile::pattern1StringListFilePath = qsProjectPath + "/programm/data/StringListPattern1.txt";
-            cIniFile::pattern2StringListFilePath = qsProjectPath + "/programm/data/StringListPattern2.txt";
+            cIniFile::pattern1StringListFilePath = qsProjectPath + "/programm/data/StringListPattern1" + qsDataFileNameExtension;
+            cIniFile::pattern2StringListFilePath = qsProjectPath + "/programm/data/StringListPattern2" + qsDataFileNameExtension;
             cIniFile::patternXStringListFilePath = qsProjectPath + "/programm/data/pattern3StringListFile" + qsDataFileNameExtension;
-            cIniFile::scaledImagePath = qsProjectPath + "/programm/img/tmp/scaled_image.png";
             cIniFile::filePathRemovedSectionList = qsProjectPath + "/programm/data/RemovedSectionList" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::fileSubjectHashTag = qsProjectPath + "/programm/data/HashTagListSubject" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::filePlaceHashTag = qsProjectPath + "/programm/data/HashTagListPlaces" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::filePropertyHashTag = qsProjectPath + "/programm/data/HashTagListPropertyes" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
             cIniFile::fileTheameHashTag = qsProjectPath +"/programm/data/HashTagListTheams" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
-
             cIniFile::fileNewItems = qsProjectPath + "/programm/data/NewItems" + qsHashTagFileNameSuffix + qsDataFileNameExtension;
+
+            cIniFile::scaledImagePath = qsProjectPath + "/programm/img/tmp/scaled_image.png";
 
             qDebug() << "###HostName: Windows10 gandmother's notebook detected!";
         }
@@ -182,8 +182,8 @@ MainWindow::MainWindow(QWidget *parent) :
             qsHashTagFileNameSuffix = "Ships";
             cIniFile::iniFilePath = qsProjectPath + qsProjectName + "/programm/data/FilesConfig" + qsHashTagFileNameSuffix + ".ini";
 
-            cIniFile::pattern1StringListFilePath = "./data/StringListPattern1.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern1StringListFile" + qsDataFileNameExtension;
-            cIniFile::pattern2StringListFilePath = "./data/StringListPattern2.txt";//qsProjectPath + qsProjectName + "/programm/data/pattern2StringListFile" + qsDataFileNameExtension;
+            cIniFile::pattern1StringListFilePath = "./data/StringListPattern1" + qsDataFileNameExtension;
+            cIniFile::pattern2StringListFilePath = "./data/StringListPattern2" + qsDataFileNameExtension;
             cIniFile::patternXStringListFilePath = qsProjectPath + qsProjectName + "/programm/data/pattern3StringListFile" + qsDataFileNameExtension;
             cIniFile::scaledImagePath = qsProjectPath + qsProjectName + "/programm/img/tmp/scaled_image.png";
             cIniFile::filePathRemovedSectionList = qsProjectPath + qsProjectName + "/programm/data/RemovedSectionList" + qsHashTagFileNameSuffix + qsDataFileNameExtension;

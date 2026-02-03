@@ -63,7 +63,7 @@
 // КОНСТАНТЫ
 //-----------------------------------------------------------------------------
 #define PROGRAMM_SUFFICS " 20260201"
-#define MACHINE_HOST_NAME "LAPTOP-BJEPP84M"
+#define MACHINE_HOST_NAME_1 "LAPTOP-BJEPP84M"
 
 #define STATUS_BAR_DELAY 500
 #define WINDOW_LEFT_MARGING 40
